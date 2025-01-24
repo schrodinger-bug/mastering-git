@@ -1,2 +1,2 @@
 # mastering-git <br>
-Author - Arin Gupta
+Author1 - Arin Gupta
